@@ -90,9 +90,9 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 
 ## ❤️ Support Me
 
-If you like what I do and want to support me, consider donating:
+If you like what I do and want to support me, consider supporing:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://www.paypal.me/mohammadmoustafa1)
+[![Support](https://img.shields.io/badge/Support-PayPal-blue?logo=paypal)](https://www.paypal.me/mohammadmoustafa1)
 
 
 
