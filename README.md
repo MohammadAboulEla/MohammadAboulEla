@@ -79,7 +79,7 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 
 ## 🤝 Connect with Me
 
-- 📧 Email: [rendreal@hotmail.com](mailto:rendreal@hotmail.com)
+- 📧 Email: [rendreal@hotmail.com](mailto:rendreal@gmail.com)
 - 📦 [By my 3d models](https://cgtrader.com/designers/makadi)
 - 🔖 [Personal facebook](https://facebook.com/mohammad.aboulela)
 
