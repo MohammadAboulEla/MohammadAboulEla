@@ -20,7 +20,7 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 - **Mobile App Development:**
     - Developed mobile apps using **Flutter** and **Dart**.
 - **Programming:**
-    - Experience in **C++**, **Python**, **JavaScript**, **Dart**, **Rust**, **C#**.
+    - Experience in **Python**, **Dart**, **JavaScript**, **C++**, **C#**, **Rust**.
 
 ---
 
