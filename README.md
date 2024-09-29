@@ -2,7 +2,7 @@
 
 [![CgTrader](https://img.shields.io/badge/Website-CgTrader-green?style=for-the-badge&logo=shopify)](https://cgtrader.com/designers/makadi)
 [![Facebook Work Page](https://img.shields.io/badge/Facebook%20Followers-4,000%20%2B-blue?style=for-the-badge&logo=facebook)](https://facebook.com/myrender)
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/mohammadmoustafa1)
+[![PayPal](https://img.shields.io/badge/Support-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/mohammadmoustafa1)
 
 ---
 
