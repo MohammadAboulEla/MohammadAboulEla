@@ -25,6 +25,25 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 ---
 
 ## 🛠️ Skills
+![Autodesk](https://img.shields.io/badge/3D_Model-Autodesk-red?logo=autodesk)
+![3ds Max](https://img.shields.io/badge/3D_Model-3ds_Max-green?logo=autodesk)
+![Photoshop](https://img.shields.io/badge/Design-Photoshop-blue?logo=adobe)
+![Blender](https://img.shields.io/badge/3D_Model-Blender-orange?logo=blender)
+![V-Ray](https://img.shields.io/badge/Renderer-VRay-blue?logo=chaos)
+![Corona Renderer](https://img.shields.io/badge/Renderer-Corona-blue?logo=chaos)
+![Chaos Vantage](https://img.shields.io/badge/Renderer-Chaos%20Vantage-blue?logo=chaos)
+![Unreal Engine](https://img.shields.io/badge/Game_Unreal%20Engine-blue?logo=unrealengine)
+![Unity](https://img.shields.io/badge/Game_Unity-blue?logo=unity)
+![Godot](https://img.shields.io/badge/Game_Godot-blue?logo=godotengine)
+![Rust](https://img.shields.io/badge/Programming-Rust-orange?logo=rust)
+![Python](https://img.shields.io/badge/Programming-Python-yellow?logo=python)
+![C#](https://img.shields.io/badge/Programming-C%23-blue?logo=csharp)
+![C++](https://img.shields.io/badge/Programming-C%2B%2B-lightgrey?logo=cplusplus)
+![Dart](https://img.shields.io/badge/Programming-Dart-blue?logo=dart)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter)
+![JavaScript](https://img.shields.io/badge/Programming-JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
 
 | **Category**       | **Skills**                                                               |
 |--------------------|--------------------------------------------------------------------------|
@@ -32,6 +51,7 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 | **Game Development**    | Unreal Engine (Blueprints), Unity (C#), Godot (GDScript)              |
 | **Programming**         | C++, Python, JavaScript, Dart, Rust, C#                              |
 | **Mobile Development**  | Flutter, Dart                                                        |
+
 <!--
 ---
 
@@ -60,8 +80,8 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 ## 🤝 Connect with Me
 
 - 📧 Email: [rendreal@hotmail.com](mailto:rendreal@hotmail.com)
-- 🌐 [By My 3d Models](https://cgtrader.com/designers/makadi)
-- 🌍 [Facebook](https://facebook.com/mohammad.aboulela)
+- 📦 [By my 3d models](https://cgtrader.com/designers/makadi)
+- 🔖 [Personal facebook](https://facebook.com/mohammad.aboulela)
 
 ---
 
