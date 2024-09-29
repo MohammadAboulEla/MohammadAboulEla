@@ -76,10 +76,13 @@ I'm a **Freelancer Architect** with a passion for **Architectural Designs** and 
 - Godot Game: [Description/Link]
 -->
 ---
+- 🔭 I’m currently working on iTools for ComfyUI
+- 🌱 I’m currently learning rendering and programing with AI models
+---
 
 ## 🤝 Connect with Me
 
-- 📧 Email: [rendreal@hotmail.com](mailto:rendreal@gmail.com)
+- 📧 Email: [rendreal@gmail.com](mailto:rendreal@gmail.com)
 - 📦 [By my 3d models](https://cgtrader.com/designers/makadi)
 - 🔖 [Personal facebook](https://facebook.com/mohammad.aboulela)
 
